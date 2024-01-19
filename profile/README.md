@@ -33,10 +33,7 @@ KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-sant
 Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
 ### Current members
-Josh Henderson, Grad student (G/RA)</br>
-Siddhi Kiran Bajracharya, Grad student (G/RA)</br>
-Hugo Morvan, Undergrad student (RA)</br>
-Suprim Nakarmi, Grad Student (G/RA)</br>
+David Cortes, PhD Student</br> 
 Nickolas Rasmussen, Grad student (G/RA)</br> 
 Hansakrish Kuttubaskar, Grad student (G/RA)</br>
 Praveen Paramsivam, Grad student (G/RA)</br>
@@ -56,7 +53,10 @@ Bipul Bhattarai, Grad student (G/RA)</br>
 ...
 
 ### Past members
-Jose David Cortes, 
+Josh Henderson,
+Siddhi Kiran Bajracharya,
+Hugo Morvan,
+Suprim Nakarmi,
 Bichar Shrestha Gurung, 
 Bigyan Shrestha, 
 Raman Regmi, 
