@@ -34,25 +34,33 @@ Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
 ### Current members
 David Cortes, PhD Student</br> 
-Nickolas Rasmussen, Grad student (G/RA)</br> 
-Hansakrish Kuttubaskar, Grad student (G/RA)</br>
-Praveen Paramsivam, Grad student (G/RA)</br>
-Abhishek Chaudhary, Grad student (G/RA)</br> 
-A Matthew Chacko, Grad student (G/RA)</br> 
-KalyanVikram Muppudoju, Grad student (G/RA)</br>
-Srijana Raut, Grad student (G/RA)</br>
-Suprim Nakarmi, Grad student (G/RA)</br>
-Gaurrav Subedi, Grad student (G/RA)</br>
-Rakshya Dahal, Grad student (G/RA)</br> 
-Alisha Karna, Grad student (G/RA)</br>
-Aarati Dhungel, Grad student (G/RA)</br>
+Nickolas Rasmussen, Grad student (G/RA)</br>
 Anup Dhakal, Grad student (G/RA)</br>
-Ronaj Pradhan, Grad student (G/RA)</br>
-Md Masum Rana, Grad student (G/RA)</br>
-Bipul Bhattarai, Grad student (G/RA)</br>
+Aashish Ghimire, Grad student (G/RA)</br>
+Sabin Adhikari, Grad student (G/RA)</br>
+Jayakumar Pujar, Grad student (G/RA)</br>
+Pooja Singh, Grad student (G/RA)</br>
+Kanishka parankusham, Grad student (G/RA)</br>
+Chenchaiah Mekalathu, Grad student (G/RA)</br>
+
 ...
 
 ### Past members
+Hansakrish Kuttubaskar,
+Praveen Paramsivam,
+Abhishek Chaudhary,
+A Matthew Chacko,
+KalyanVikram Muppudoju,
+Srijana Raut,
+Suprim Nakarmi,
+Gaurrav Subedi,
+Rakshya Dahal,
+Alisha Karna,
+Aarati Dhungel,
+Anup Dhakal,
+Ronaj Pradhan,
+Md Masum Rana,
+Bipul Bhattarai,
 Josh Henderson,
 Siddhi Kiran Bajracharya,
 Hugo Morvan,
@@ -77,7 +85,7 @@ Alina Chu,
 Airu Liu
 Fatema Tu Zohora, 
 A Afaque, 
-Nikul Vyas, 
+Nikul Vyas,
 
 ...
 
