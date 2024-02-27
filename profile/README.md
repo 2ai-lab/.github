@@ -109,11 +109,12 @@ We frequently have openings for research positions, and strongly suggest to cont
 <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
 
 ## Applied AI student club - The University of South Dakota
-Siddhi Kiran Bajracharya, President </br>
-Josh Henderson, Vice president </br>
-Nikita Shrestha, Public relations officer </br>
-Srijana Raut, Treasurer</br>
-Suprim Nakarmi, Secretary</br>
+This is the election week... </br>
+--, President </br>
+--, Vice president </br>
+--, Public relations officer </br>
+--, Treasurer</br>
+--, Secretary</br>
 KC Santosh, Advisor
 
 ### 2AI club resources
