@@ -2,7 +2,7 @@
 Department of Computer Science, The University of South Dakota
 
 ## Welcome 👋
-Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
+Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining, and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
 We actively participate and/or sponsor the International Conf on Recent Trends in Image Processing & Pattern Recognition (<a href='https://rtip2r-conference.org'>RTIP2R</a>). 
 
@@ -33,7 +33,8 @@ KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-sant
 Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
 ### Current members
-David Cortes, PhD Student</br> 
+David Cortes, PhD Student</br>
+Priyam Pandey, PhD Student</br>
 Nickolas Rasmussen, Grad student (G/RA)</br>
 Anup Dhakal, Grad student (G/RA)</br>
 Aashish Ghimire, Grad student (G/RA)</br>
@@ -42,6 +43,12 @@ Jayakumar Pujar, Grad student (G/RA)</br>
 Pooja Singh, Grad student (G/RA)</br>
 Kanishka parankusham, Grad student (G/RA)</br>
 Chenchaiah Mekalathu, Grad student (G/RA)</br>
+Alexis Haiar, Undergraduate student (Volunteer)</br>
+Malashree Dhungel, Undergraduate student (Volunteer)</br>
+Yslam Ismailov, Undergraduate student (Volunteer)</br>
+Anuska Pokharel, Undergraduate student (Volunteer)</br>
+AkhilReddy Mendu, Undergraduate student (Volunteer)</br>
+MdAftabul Islam, Undergraduate student (Volunteer)</br>
 
 ...
 
