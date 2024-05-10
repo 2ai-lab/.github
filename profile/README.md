@@ -35,6 +35,7 @@ Aaisha Makkar, PhD (University of Derby)</br>
 ### Current members
 David Cortes, PhD Student</br>
 Priyam Pandey, PhD Student</br>
+Anushuya Baidya, Grad student (G/RA)</br>
 Nickolas Rasmussen, Grad student (G/RA)</br>
 Anup Dhakal, Grad student (G/RA)</br>
 Aashish Ghimire, Grad student (G/RA)</br>
