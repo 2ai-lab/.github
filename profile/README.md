@@ -1,5 +1,5 @@
 # Applied Artificial Intelligence (AI) research lab
-Department of Computer Science
+Department of Computer Science</br>
 University of South Dakota
 
 ## Welcome 👋
