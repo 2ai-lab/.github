@@ -38,8 +38,7 @@ David Cortes, PhD Student</br>
 Priyam Pandey, PhD Student</br>
 Anushuya Baidya, Grad student (G/RA)</br>
 Nickolas Rasmussen, Grad student (G/RA)</br>
-Anup Dhakal, Grad student (G/RA)</br>
-Anup khanal, Grad student (G/RA)</br>
+Anup Khanal, Grad student (G/RA)</br>
 Aashish Ghimire, Grad student (G/RA)</br>
 Sabin Adhikari, Grad student (G/RA)</br>
 Jayakumar Pujar, Grad student (G/RA)</br>
