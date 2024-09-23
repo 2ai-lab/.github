@@ -37,7 +37,7 @@ Aaisha Makkar, PhD (University of Derby)</br>
 David Cortes, PhD Student</br>
 Casey Wall, PhD Student</br>
 Nickolas Rasmussen, PhD Student</br>
-Chenchaiah Mekalathu, Grad student, President AI Club (G/RA)</br>
+Chenchaiah Mekalathu, Grad student (G/RA)</br>
 Kanishka parankusham, Grad student (G/RA)</br>
 KrishnaPhanindra Marupaka, Grad student (G/RA)</br>
 Deepika Nuthalapati, Grad student (G/RA)</br>
@@ -105,7 +105,7 @@ Nikul Vyas,
 ...
 
 
-## List of contributers
+## List of contributors
 <a href = 'https://github.com/padam56'>Padam Jung Thapa</a>, 
 <a href = 'https://github.com/siddhi47'>Siddhi Kiran Bajracharya</a>,
 <a href = 'https://github.com/suprimnakarmi'>Suprim Nakarmi</a> 
@@ -116,13 +116,13 @@ We frequently have openings for research positions, and strongly suggest to cont
 ## Follow us (to know more)
 <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
 
-## Applied AI student club - The University of South Dakota
-This is the election week... </br>
---, President </br>
---, Vice president </br>
---, Public relations officer </br>
---, Treasurer</br>
---, Secretary</br>
+## Applied AI student club - The University of South Dakota - Fall 2025
+</br>
+Chenchaiah Mekalathu, President </br>
+David Cortes, Vice President </br>
+Deepika Nuthalapati, Public Relations Officer </br>
+KrishnaPhanindra Marupaka, Treasurer</br>
+Jayakumar Pujar, Secretary</br>
 KC Santosh, Advisor
 
 ### 2AI club resources
