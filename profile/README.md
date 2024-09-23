@@ -35,26 +35,32 @@ Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
 ### Current members
 David Cortes, PhD Student</br>
-Priyam Pandey, PhD Student</br>
-Anushuya Baidya, Grad student (G/RA)</br>
-Nickolas Rasmussen, Grad student (G/RA)</br>
-Anup Khanal, Grad student (G/RA)</br>
+Casey Wall, PhD Student</br>
+Nickolas Rasmussen, PhD Student</br>
+Chenchaiah Mekalathu, Grad student, President AI Club (G/RA)</br>
+Kanishka parankusham, Grad student (G/RA)</br>
+KrishnaPhanindra Marupaka, Grad student (G/RA)</br>
+Deepika Nuthalapati, Grad student (G/RA)</br>
+Satya Mouli Dhangati, Grad student (G/RA)</br>
+Sivani Maddepalli, Grad student (G/RA)</br>
+Sainath Vaddi, Grad student (G/RA)</br>
+Sony Gurram, Grad student (G/RA)</br>
 Aashish Ghimire, Grad student (G/RA)</br>
 Sabin Adhikari, Grad student (G/RA)</br>
 Jayakumar Pujar, Grad student (G/RA)</br>
 Pooja Singh, Grad student (G/RA)</br>
-Kanishka parankusham, Grad student (G/RA)</br>
-Chenchaiah Mekalathu, Grad student (G/RA)</br>
 Alexis Haiar, Undergraduate student (Volunteer)</br>
 Malashree Dhungel, Undergraduate student (Volunteer)</br>
-Yslam Ismailov, Undergraduate student (Volunteer)</br>
-Anuska Pokharel, Undergraduate student (Volunteer)</br>
-AkhilReddy Mendu, Undergraduate student (Volunteer)</br>
-MdAftabul Islam, Undergraduate student (Volunteer)</br>
 
 ...
 
 ### Past members
+Anup Khanal,
+Anushuya Baidya,
+MdAftabul Islam,
+AkhilReddy Mendu,
+Anuska Pokharel,
+Yslam Ismailov,
 Hansakrish Kuttubaskar,
 Praveen Paramsivam,
 Abhishek Chaudhary,
