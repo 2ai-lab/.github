@@ -32,7 +32,9 @@ We actively participate and/or sponsor the International Conf on Recent Trends i
 ## USD Artificial Intelligence (ᗩ𝕀) research lab team
 KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>)</br>
 Rodrigue Rizk, PhD</br>
+Longwei Wang, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
+
 ### Current members
 David Cortes, PhD Student</br>
 Casey Wall, PhD Student</br>
