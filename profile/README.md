@@ -3,7 +3,7 @@ Department of Computer Science</br>
 University of South Dakota
 
 ## Welcome 👋
-Welcome to the GitHub repository of the Applied AI research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining, and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
+Welcome to the GitHub repository of the USD Artificial Intelligence (ᗩ𝕀) research lab. This page is dedicated to disseminating research products/publications on artificial intelligence, machine learning, pattern recognition, computer vision, image processing, data mining, and big data with various application domains such as healthcare informatics and medical imaging, document imaging, biometrics, forensics, speech analysis and Internet of Things.
 
 We actively participate and/or sponsor the International Conf on Recent Trends in Image Processing & Pattern Recognition (<a href='https://rtip2r-conference.org'>RTIP2R</a>). 
 
