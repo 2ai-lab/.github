@@ -1,4 +1,4 @@
-# Applied Artificial Intelligence (AI) research lab
+# USD Artificial Intelligence (ᗩ𝕀) Research
 Department of Computer Science</br>
 University of South Dakota
 
@@ -29,7 +29,7 @@ We actively participate and/or sponsor the International Conf on Recent Trends i
 - <a href = 'https://github.com/2AI-Lab'>Graph neural networks - when to deploy?</a> (book, to appear)
 - <a href = 'https://github.com/2AI-Lab'>Active learning - what, how, and when to deploy?</a> (book, to appear)
 
-## 2AI research lab team
+## USD Artificial Intelligence (ᗩ𝕀) research lab team
 KC Santosh,PhD (Founder & Director, 2AI research lab, <a href = 'https://kc-santosh.org'>Profile</a> and <a href = 'https://www.linkedin.com/in/santoshkc/'>LinkedIn</a>)</br>
 Rodrigue Rizk, PhD</br>
 Aaisha Makkar, PhD (University of Derby)</br>
@@ -118,15 +118,6 @@ We frequently have openings for research positions, and strongly suggest to cont
 
 ## Follow us (to know more)
 <a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
-
-## Applied AI student club - The University of South Dakota - Fall 2025
-</br>
-Chenchaiah Mekalathu, President </br>
-David Cortes, Vice President </br>
-Deepika Nuthalapati, Public Relations Officer </br>
-KrishnaPhanindra Marupaka, Treasurer</br>
-Jayakumar Pujar, Secretary</br>
-KC Santosh, Advisor
 
 ### 2AI club resources
 - <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash course series</a>
