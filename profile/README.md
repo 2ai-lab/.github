@@ -117,7 +117,8 @@ Nikul Vyas,
 We frequently have openings for research positions, and strongly suggest to contact at santosh.kc@usd.edu | santosh.kc@ieee.org
 
 ## Follow us (to know more)
-<a href = 'https://www.linkedin.com/company/kc-2ai/'>Linkedin</a>
+<a href = 'https://www.linkedin.com/company/kc-ai'>Linkedin</a>
+
 
 ### 2AI club resources
 - <a href = 'https://github.com/2AI-Lab/python-series'> Python Crash course series</a>
